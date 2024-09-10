@@ -63,7 +63,10 @@ function App() {
           >
             purple
           </button>
-          <button onClick={handleRefresh}>refresh</button>
+          <button onClick={handleRefresh}
+          className="outline-none px-4 py-1 rounded-full  text-white shad-lg"
+           style={{ backgroundColor: "black" }}
+          >refresh</button>
         </div>
       </div>
     </div>
