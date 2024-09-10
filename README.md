@@ -1,8 +1,8 @@
-# React + Vite
+# React + Vite + Tailwind CSS with Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In this sample app, we change the background. With click in wanted button-color 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    1. Install Node.js if you haven't already: https://nodejs.org/en/download/
+    2. Make repository clone https://github.com/ninkov/BGChanger.git
+    3. Open terminal and make sure you in the right directory. Then enter 'npm i' to install all package
+    4. Finally run in terminal 'npm run dev'  and check address: http://localhost:5173/ 
